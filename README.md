@@ -24,6 +24,8 @@
 
 1. Html : https://github.com/ranggshadow27/lab2web/blob/main/mypage.html <br>
    CSS : https://github.com/ranggshadow27/lab2web/blob/main/mystyle.css
+   ![image](https://user-images.githubusercontent.com/46300525/113240913-d723be80-92d7-11eb-9459-9b9ab6b19e83.png)
+
 <br>
 2. <b>Jika menggunakan <code>h1</code>, css akan memformat tag <code>h1</code> yang ada di html. sedangkan jika menggunakan <code>#intro h1</code>, css hanya akan memformat <code>h1</code> yang termasuk dalam id intro saja.</b>
 <br>
