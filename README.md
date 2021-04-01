@@ -1,6 +1,6 @@
 # lab2web
 
-<h2>Lab 2 Pemograman Web</h2>
+<b>Lab 2 Pemograman Web</b><br>
 <b>Rangga Tito Prayogo - 311910036 - TI19B1 </b>
 
 ![image](https://user-images.githubusercontent.com/46300525/113235081-ab4f0b80-92cc-11eb-9ce1-06651ddb8831.png)
