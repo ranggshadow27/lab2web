@@ -20,7 +20,7 @@
 <b>ID & Class Selector</b>
 ![image](https://user-images.githubusercontent.com/46300525/113236321-d8042280-92ce-11eb-9268-7bc9b54423f8.png)
 
-<h3>Pertanyaan dan Tugas</h3> <br>
+<h3>Pertanyaan</h3> <br>
 
 1. Html : https://github.com/ranggshadow27/lab2web/blob/main/mypage.html <br>
    CSS : https://github.com/ranggshadow27/lab2web/blob/main/mystyle.css
