@@ -1,0 +1,67 @@
+body {
+    font-family: 'poppins' ;
+}
+
+header {
+    min-height: 80px;
+    border-bottom: 1px solid #77CCEF;
+}
+
+h1 {
+    font-size : 24px;
+    color :  #464646;
+    text-align: center;
+    padding : 20px 10px;
+}
+
+h1 i {
+    color : #df5a86;
+}
+
+p {
+    color : #333333;
+}
+
+nav {
+    background: #20a759;
+    color: #fff;
+    padding : 10px
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav .active, nav a:hover {
+    background: #0b6b3a;
+}
+
+/* ID Selector */
+#intro {
+    background: #7fc1dd;
+    border : 1px solid #7fc1dd;
+    min-height: 100px;
+    padding: 10px
+}
+
+#intro h1 {
+    text-align: left;
+    border : 0;
+    color : #fff;
+}
+
+/* Class Selector */
+.button {
+    padding : 15px 20px;
+    background: #bebcbd;
+    color : #fff;
+    display: inline-block;
+    margin : 10px;
+    text-decoration: none;
+}
+
+.btn-primary {
+    background: #d6344a;
+}
